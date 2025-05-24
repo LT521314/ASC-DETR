@@ -1,2 +1,2 @@
 # ASC-DETR
-code and dataset
+The dataset is located in the "datasets" folder.
